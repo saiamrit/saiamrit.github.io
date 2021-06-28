@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Sai Amrit Patnaik
+title: <strong>Sai</strong> Amrit Patnaik
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">M.S. by Research, IIIT Hyderabad</a>
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p> -->
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
