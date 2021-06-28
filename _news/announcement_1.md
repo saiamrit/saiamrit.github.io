@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: Delivered a [talk](https://www.youtube.com/watch?v=ZcvQs5a9H9M&ab_channel=PyConIndia2018) at PYCON India, 2018 at Hyderabad, India
+date: 2018-08-11 15:59:00-0400
 inline: true
 ---
-
-A simple inline announcement.

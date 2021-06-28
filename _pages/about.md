@@ -1,8 +1,8 @@
 ---
 layout: about
-title: <strong>Sai</strong> Amrit Patnaik
+title: <strong>Sai Amrit</strong> Patnaik
 permalink: /
-description: <a href="#">M.S. by Research, IIIT Hyderabad</a>
+description: <a href="https://cvit.iiit.ac.in/">M.S. by Research, IIIT Hyderabad</a>
 
 profile:
   align: right
