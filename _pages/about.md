@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Sai Amrit Patnaik
 permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -12,15 +12,15 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p> -->
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I’m currently a MS (Research, Computer Science) student at IIIT Hyderabad. Until recently, I was working as a Research Engineer at Mercedes-Benz Research & Development India, working on the MBUX Interior Assistant using Computer Vision and Deep Learning.
+Hi! I’m currently a MS (Research, Computer Science) student at IIIT Hyderabad. Until recently, I was working as a Research Associate at Centre for Visual Information and Technology (CVIT), working on Face Biometrics using Computer Vision and Deep Learning.
 
-I finished my undergraduate from Delhi Technological University (Formerly DCE) in 2017, with a degree in Mathematics and Computing. I have been lucky to receive mentorship by some amazing people including Dr. Ganesh Bagler, and Dr. C.V. Jawahar.
+I finished my undergraduate from IIIT Bhubanbeswar(IIIT-BH) in 2019, with a degree in Computer Science and Engineering. I have been lucky to receive mentorship by some amazing people including Dr. Anoop Namboodri, Dr. Avinash Sharma, Dr. Aurobindo Routray(IIT-Kharagpur), and Dr. Manish Gupta(Director, Google Research, India).
 
-I love to explore different problems, especially in computer vision, and experiment with different domains frequently. Sometimes, it ends up in something useful, other times it’s a good learning experience. I try to share my random thoughts on my blog. When I’m not doing academic stuff, I may be spotted in a peaceful corner doing some sketching, gaming, reading, playing my guitar/ukulele, or even taking naps!
+I love to explore different problems, especially in computer vision, Mathematics behind them and experiment with different domains frequently. SUccess or failure, I try to learn something out of them. I try to share my learnings and experiences on my blog. When I’m not doing academic stuff, I may be spotted in a peaceful corner reading some book, playing my keyboard, or taking naps!
 
 Have a look at my CV for more details!
 
