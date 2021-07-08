@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
   Last updated: 9 July 2021
 
-icon: # the emoji used as the favicon
+icon: 🌎 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 # baseurl: # the subpath of your site, e.g. /blog/
@@ -51,10 +51,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: saiamrit# your GitHub user name
+github_username: saiamrit # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: SaiAmritPatnaik# your Twitter handle
-linkedin_username: # your LinkedIn user name
+twitter_username: SaiAmritPatnaik # your Twitter handle
+linkedin_username: sai-amrit-patnaik # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
